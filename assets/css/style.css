@@ -4893,12 +4893,12 @@ label {
 }
 
 .contacts__social ul li a {
-  height: 50px;
-  width: 60px;
+  height: 40px;
+  width: 40px;
   display: inline-block;
   text-align: center;
-  line-height: 45px;
-  font-size: 40px;
+  line-height: 35px;
+  font-size: 30px;
   color: #696969;
   border-radius: 10%;
 }
